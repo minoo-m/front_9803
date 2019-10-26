@@ -1,0 +1,384 @@
+
+/*--------------------------backgraund----------------------------*/
+
+.contaner {
+    width:90%;
+    height:2115px;
+    margin: auto;
+    margin-top: 0;
+    background: url("back.jpg")  no-repeat ;
+}
+/*--------------------------/backgraund----------------------------*/
+/*--------------------------header----------------------------*/
+.contaner header {
+    margin-left:510px;
+    padding-top:230px;
+}
+
+.contaner header h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.contaner header h1 span {
+    color: rgb(233,154,29);
+}
+
+.contaner header h5 {
+    font-size: 15px;
+    color: white;
+    font-weight: normal;
+}
+
+.contaner header ul {
+
+}
+
+.contaner header ul li {
+
+    display: inline-block;
+    padding-right: 10px;
+    padding-top: 10px;
+    color: white;
+    margin-right: 5px;
+    margin-left: 15px;
+    margin-top:0;
+    border-top: solid 1px transparent;
+
+
+}
+
+.contaner header ul li i:hover {
+    border-top: solid 1px white;
+    cursor: pointer;
+
+}
+/*--------------------------/header----------------------------*/
+/*--------------------------table-----------------------------*/
+/*--------------------------bag-----------------------------*/
+
+.contaner table td img
+{
+
+
+}
+.contaner table td img.bag{
+    width:350px;
+    height:300px;
+    margin-left: 30px;
+    margin-top:220px;
+
+}
+.contaner table tr td div.sub-image{
+    margin-top:-21px;
+    margin-left: 30px;
+    width:350px;
+    height:50px;
+    background-color:white;
+}
+/*--------------------------/bag----------------------------*/
+.contaner table tr td div.sub-image p,
+.contaner table tr td div.back-headphone p{
+    margin-left:15px;
+    color: grey;
+}
+.contaner table tr td div.sub-image p span,
+.contaner table tr td div.back-headphone p span
+{
+    margin-left:10px;
+    color:rgb(233,154,29);
+}
+.contaner table tr td div.sub-image p,
+.contaner table tr td div.back-headphone p del,
+.contaner table tr td  .sub-image2 p span,
+.contaner table tr td div.back-headphone p,
+.contaner table tr td div.back-shart  p span,
+.contaner table tr td div.sub-image3 p span,
+.contaner table tr td .sub-image4 p span,
+.contaner table tr td  .sub-image4
+
+{
+    color: #7b7b7b;
+    padding-left:15px;
+    font-weight: bold;
+}
+.contaner table tr td div.sub-image p del ,
+.contaner table tr td div.back-headphone p del,
+.contaner table tr td div.sub-image2 ,
+.contaner table tr td div.back-shart p ,
+.contaner table tr td div.sub-image3 p,
+.contaner table tr td img.glass div.sub-image4 p,
+.contaner table tr td  .sub-image4
+
+{
+    color: rgba(123, 123, 123, 0.47);
+    padding-left:15px;
+}
+
+.buy-bottom{
+    float: right;
+    width:70px;
+    height:30px;
+    background-color: rgb(233,154,29);
+    border-radius:35%;
+    margin-top:-45px;
+    margin-right: 15px;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+.contaner table tr td div.text{
+    width:350px;
+    height:350px;
+    margin-left:30px;
+    margin-top:218px;
+    background-color:rgb(233,154,29);
+
+
+}
+/*--------------------------text----------------------------*/
+.contaner table tr td div.text p{
+    margin-left:30px;
+    color: white;
+}
+.contaner table tr td div.text p.m{
+    font-size:18px;
+    font-weight: bold;
+    position: absolute;
+    margin-top:50px;
+
+}
+.contaner table tr td div.text p.o{
+    position: absolute;
+    margin-top:70px;
+}
+.contaner table tr td div.text p.b{
+    position: absolute;
+    margin-top:100px;
+    font-style: italic;
+
+
+}
+.contaner table tr td div.text p.b span{
+    border-top: white solid 1px;
+}
+.contaner table tr td div.text  ul{
+    list-style: none;
+}
+
+.contaner table tr td div.text  ul li i.fa-share-alt {
+    display:inline-block;
+    position: absolute;
+    color: white;
+    margin-left:250px;
+    margin-top:300px;
+    cursor: pointer;
+
+
+
+}
+.contaner table tr td div.text  ul li i.fa-plus {
+    position: absolute;
+    color:white;
+    margin-left:290px;
+    margin-top:300px;
+    cursor: pointer;
+
+
+
+}
+/*--------------------------/text----------------------------*/
+/*--------------------------headphone----------------------------*/
+
+.contaner table tr td div.back-headphone{
+    position: absolute;
+    width:370px;
+    height:580px;
+    background-color: white;
+    margin-top:-65px;
+    margin-left:40px;
+    padding-bottom:10px;
+}
+.contaner table tr td div.back-headphone p{
+    margin-top:-13px;
+}
+.contaner table tr td div.back-headphone div.images-headphone{
+    padding-top:50px;
+    padding-right:50px;
+    padding-bottom:40px;
+
+}
+.design{
+    position: absolute;
+    padding-bottom: 20px;
+    padding-right: 20px;
+
+}
+.contaner table tr td .images-headphone .headphone1{
+    height:335px;
+    margin-top:-35px;
+    margin-left:15px;
+    width:340px;
+}
+.contaner table tr td  .images-headphone .headphone2{
+    margin-left:15px;
+    margin-top:5px;
+}
+.contaner table tr td .images-headphone .headphone3{
+    margin-left:20px;
+    margin-top:5px;
+}
+
+/*--------------------------/headphone----------------------------*/
+/*--------------------------girl---------------------------*/
+
+.contaner table td img.girl{
+    position: absolute;
+    margin-top:-250px;
+    margin-left: 30px;
+    width: 350px;
+    height:530px;
+
+}
+/*--------------------------/girl---------------------------*/
+/*--------------------------shart---------------------------*/
+.contaner table td img.shart{
+
+    margin-left:-80px;
+}
+.contaner table td div.text{
+    width:200px;
+    height: 200px;
+    margin-left:-80px;
+    margin-top:40px;
+
+    background-color:rgb(233,154,29);
+
+}
+.contaner table tr td div.images-shart{
+    margin-top:50px;
+    margin-left:-20px;
+
+}
+.contaner table tr td div.back-shart{
+    position: absolute;
+    width: 360px;
+    height:595px;
+    margin-top:-420px;
+    margin-left:30px;
+    background-color: white;
+}
+.contaner table tr td div.back-shart .images-shart .camera{
+    margin-left:30px;
+    margin-top: 5px;
+}
+.contaner table tr td div.back-shart .images-shart .hard{
+    margin-left:15px;
+    margin-top: 5px;
+}
+
+.clearfix{
+    float: none;
+    clear: both;
+}
+/*--------------------------/shart---------------------------*/
+/*--------------------------video---------------------------*/
+.contaner div.video img{
+    margin-top: 30px;
+    margin-left:30px;
+    margin-right:100px;
+    width:732px;
+}
+.contaner div.video ul li i {
+    position: absolute;
+    color:white;
+    font-size:80px;
+    margin-top:-220px;
+    margin-left:300px;
+    cursor: pointer;
+}
+.contaner table tr td img{
+    margin-left: 30px;
+    margin-top:0;
+}
+.contaner table tr td div.sub-image2{
+    margin-top: 280px;
+    margin-bottom:-800px;
+    width:335px;
+    height:60px;
+    background-color:white;
+    margin-left: 30px;
+}
+/*--------------------------/video---------------------------*/
+/*-------------------------- shoe---------------------------*/
+
+.contaner table tr td img
+{
+    margin-top:-30px;
+}
+.contaner table tr td img.shoe{
+    width:370px;
+    height:300px;
+    margin-left:420px;
+    margin-bottom:700px;
+    margin-right: 200px;
+    margin-top:-170px;
+}
+.contaner table tr td div.sub-image3{
+    position: absolute;
+    margin-top:-705px;
+    margin-left:420px;
+    width:370px;
+    height:60px;
+    background-color:white;
+}
+/*-------------------------- /shoe---------------------------*/
+/*-------------------------- glass---------------------------*/
+
+.contaner table tr td img.glass{
+    width:370px;
+    height:300px;
+    margin-left:-575px;
+    margin-bottom:80px;
+}
+.contaner table tr td div.sub-image4{
+    position: absolute;
+    width:355px;
+    margin-left:-575px;
+    margin-top:-85px;
+    background-color: white;
+    height:80px;
+}
+/*-------------------------- /glass---------------------------*/
+/*-------------------------- footter---------------------------*/
+.contaner div.footer{
+    width:94%;
+    margin: auto;
+    height:50px;
+    background-color:white;
+    margin-top:-230px;
+    padding-top: 10px;
+    padding-left: 10px;
+
+
+}
+.contaner .footer p{
+    color:rgb(233,154,29);
+}
+
+.contaner .footer p span{
+    color:rgb(123,123,124);
+}
+
+.contaner .footer ul{
+    margin-left:1050px;
+    margin-top: -50px;
+    padding-left:5px;
+}
+.contaner .footer ul li {
+    display: inline-block;
+    color:rgb(123,123,124);
+    margin-right:10px;
+}
+/*--------------------------/footter---------------------------*/
